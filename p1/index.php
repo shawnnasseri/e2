@@ -32,5 +32,5 @@ echo "$randomnumber correct.";
 }
 ?>
 <br><br>
-<input type="submit" name="submit" value="Search"/><br><br>
+<input type="submit" name="submit" value="Guess"/><br><br>
 </form>
