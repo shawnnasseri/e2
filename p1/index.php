@@ -2,35 +2,17 @@
 <h1><?php echo "Start of Project" ?></h1>
 
 <?php
-
-$number= $_POST['number_in'];
-
-$submitbutton= $_POST['submit'];
-
-$randomnumber= mt_rand(1,20);
-
-?>
-<form action="" method="POST">
-Guess A number between 1 and 20: 
-<input type="text" name="number_in" value=''/> <br><br>
-
-Number In: 
-<?php 
-if ($submitbutton){
-
-if (($number > 0) && ($number <=20)){
-if ($number != $randomnumber)
-{
-echo "Incorrect. Number was $randomnumber. Try again";
+$rand = rand(1,20);
+for ($x = 0; $x <= 100; $x++) {
+   echo " Count is: $x <br> ";
+   $guess_rand = rand(1,20);
+   echo " Random Guess is: $guess_rand <br> ";
+   if ($guess_rand > $rand) {
+       echo " guess high ";
+   } elseif ($guess_rand == $rand) {
+       echo " guess correct ";
+   } else {
+       echo " Guess low ";
 }
-else 
-{
-echo "$randomnumber correct.";
-}
-}
-
 }
 ?>
-<br><br>
-<input type="submit" name="submit" value="Guess"/><br><br>
-</form>
