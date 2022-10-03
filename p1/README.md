@@ -1,0 +1,2 @@
+I did a few games, but could not get them to load as I am out side the country for a 
+trip.  This last simple game was just guess a number between 1 to 20 on a simple html form with php code.  I have been travelling for work a bit more than I thought. Usually I get ok internet, but here the internet is worst than a 9600 baud modem. 
