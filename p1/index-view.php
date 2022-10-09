@@ -10,7 +10,7 @@
 </head>
 
 <h1>Shawn Nasseri E2 P1 </h1>
-<h1>Start of Project One</h1>
+<h1>Start of Project One Guess number 1 to 20</h1>
 
 <h2>Counter Trys to guess the number</h2>
 <h2><?=$x?></h2>

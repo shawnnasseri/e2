@@ -3,4 +3,5 @@ trip.  This last simple game was just guess a number between 1 to 20 with a 100 
 
 The files are also seprated to follow MVC format. In this case a View and Controller. Php code does a loop to 100
 guessing the randome number generated between 1 and 20.  The loop will go to 100 unless the correct guess is made to 
-the other random genrated number.  The loop will break out if correct guess is guessed. I did add css to the view. 
+the random number by another random genrated number.  The loop will break out if correct guess is guessed. The number
+of tries will be displayed then the random guess number. I did add css to the view with some color. 
