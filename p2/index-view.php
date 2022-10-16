@@ -3,7 +3,7 @@
      Date:     October 15, 2022
      Function: Simple game of guessing numbers
              : between 1 and 20 Will say if guess is high or low
-             : Random number function with user input view file
+             : Random number function with user input view
              : Refactor ***
 -->
 
@@ -17,7 +17,7 @@
 
 <body>  
     <h1>Shawn Nasseri E2 P2 </h1>
-    <h1>Start of Project One Guess number 1 to 20</h1>
+    <h1>Start of Project Two Guess number 1 to 20</h1>
     <h2>Random Number is: </h2>
     <h2><?=$rand?></h2>
 
