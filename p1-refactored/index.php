@@ -9,9 +9,9 @@
 
 <?php
 // Constant Limits
-$random_min = 1
-$random_max = 20
-$tries = 100
+$random_min = 1;
+$random_max = 20;
+$tries = 100;
 
 $rand = rand($random_min,$random_max);
 for ($x = 0; $x <= $tries; $x++) {
