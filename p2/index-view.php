@@ -24,7 +24,7 @@
     <form action="" method="GET">
       <label for="num_in">Enter your guess</label>
       <input type="text" name="num_in">
-      <input type="submit" name="submit">
+      <input type="submit" name="submit" value="Guess">
     </form>
     <h2>Message</h2>
     <h2><?=$messageHighLowCorrect?></h2>
