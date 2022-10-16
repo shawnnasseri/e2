@@ -3,14 +3,14 @@
      Date:     October 15, 2022
      Function: Simple game of guessing numbers
              : between 1 and 20 Will say if guess is high or low
-             : Two random number functions view file
+             : Random number function with user input view file
              : Refactor ***
 -->
 
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Project 1</title>
+    <title>Project 2</title>
     <meta charset='utf-8'>
     <link rel="stylesheet" href="styles.css">
 </head>
@@ -25,7 +25,7 @@
       <label for="num_in">Enter your guess</label>
       <input type="text" name="num_in">
       
-      <input type="submit" name="submit">
+      <input type="submit" name="Guess">
     </form>
     <h2>Message</h2>
     <h2><?=$messageHighLowCorrect?></h2>
