@@ -16,11 +16,11 @@ $rand = rand($random_min,$random_max);
 
 $number = $_GET['num_in'];
 if ($number > $rand){
-     $messageHighLowCorrect =  "Your guess is high";
+     $messageHighLowCorrect =  "Your guess was high";
 } elseif ($number < $rand) {
-     $messageHighLowCorrect =  "Your guess is low";
+     $messageHighLowCorrect =  "Your guess was low";
 } elseif ($number == $rand) {
-     $messageHighLowCorrect =  "Your guess is correct";
+     $messageHighLowCorrect =  "Your guess was correct";
 }
 
 require "index-view.php"

@@ -18,8 +18,6 @@
 <body>  
     <h1>Shawn Nasseri E2 P2 </h1>
     <h1>Start of Project Two Guess number 1 to 20</h1>
-    <h2>Random Number is: </h2>
-    <h2><?=$rand?></h2>
 
     <form action="" method="GET">
       <label for="num_in">Enter your guess</label>
@@ -28,5 +26,7 @@
     </form>
     <h2>Message</h2>
     <h2><?=$messageHighLowCorrect?></h2>
+    <h2>Random Number was: </h2>
+    <h2><?=$rand?></h2>
 </body>
 </html>

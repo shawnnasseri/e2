@@ -1,4 +1,4 @@
-Any instructions/notes in italics should be removed from the template before submitting
+
 
 Project 2
 By: Shawn S Nasseri
@@ -11,4 +11,4 @@ Ask the user via form and entry fields to guess a random number from 1 to 20.
 During the loop the number put in by the user will be compared to
 see if it is too low or high or matches the first random value 1 to 20.
 
-Notes for instructor
+
