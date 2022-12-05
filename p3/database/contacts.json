@@ -1,0 +1,69 @@
+{
+    "1": {
+        "id": 1,
+        "first_name": "Cindy",
+        "last_name": "Washington",
+        "street": "1 Clear Street",
+        "city": "Wilmington",
+        "state": "NC",
+        "zip": "29930",
+        "phone": "910-555-3904",
+        "email": "cindy@yahoo.com"
+    },
+    "2": {
+        "id": 2,
+        "first_name": "Mandy",
+        "last_name": "Breakwater",
+        "street": "1 Ocean Street",
+        "city": "Myrtle Beach",
+        "state": "SC",
+        "zip": "34930",
+        "phone": "910-555-3905",
+        "email": "mandy@gmail.com"
+    },
+    "3": {
+        "id": 3,
+        "first_name": "Lucy",
+        "last_name": "Seaplace",
+        "street": "11 Singer Street",
+        "city": "West Palm",
+        "state": "FL",
+        "zip": "84930",
+        "phone": "910-555-3909",
+        "email": "lucy@vacation.com"
+    },
+    "4": {
+        "id": 4,
+        "first_name": "Mary",
+        "last_name": "Raleigh",
+        "street": "11 Lucky Street",
+        "city": "Cary",
+        "state": "NC",
+        "zip": "34230",
+        "phone": "910-555-5453",
+        "email": "mary@citycary.com"
+    },
+    "5": {
+        "id": 5,
+        "first_name": "Anna",
+        "last_name": "Nice",
+        "street": "114 Ace Street",
+        "city": "Happy",
+        "state": "NC",
+        "zip": "45230",
+        "phone": "910-555-5444",
+        "email": "Anna@international.com"
+    },
+
+    "6": {
+        "id": 6,
+        "first_name": "Sarah",
+        "last_name": "Simpson",
+        "street": "992 Nice Ave",
+        "city": "Wrightsville Beach",
+        "state": "NC",
+        "zip": "24830",
+        "phone": "910-543-4453",
+        "email": "Sarah@gmail.com"
+    }
+}
